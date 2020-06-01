@@ -4,6 +4,7 @@
  * Bosch BME680 sensor
  * Uses the Bosch Sensortec Environmetal Cluster for Arduino to compute IAQ values
  * https://github.com/BoschSensortec/BSEC-Arduino-library
+ * Basd on BSEC Arduino library basic.ino example script.
  * Copyright K.Schmolders 06/2020
  */
 
